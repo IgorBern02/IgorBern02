@@ -1,4 +1,4 @@
-### Olá! Eu sou o Igor Bernardes.
+### Olá! Eu sou o Igor Bernardes, atualmente estudante Front End e cursando Análise e Desenvolvimento de Sistemas.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user.igu/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-bernardes-05aa05204/)
