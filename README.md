@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/user.igu/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-bernardes-05aa05204/)
 
-![IgorBern02 GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorBern02&show_icons=true&theme=tokyonight)
+![IgorBern02 GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorBern02&show_icons=true&theme=radical)
 
 ## Tecnologia que eu uso no meu dia
 
