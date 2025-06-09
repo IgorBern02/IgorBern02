@@ -1,4 +1,4 @@
-<h2 align="left">🧑🏻‍💻 Igor Bernardes</h2>
+<h1 align="left">🧑🏻‍💻 Igor Bernardes</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">🤖 Linguagens e Tecnologias</h4>
+<h3 align="left">🤖 Linguagens e Tecnologias</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h4 align="left">📊 Estatísticas</h4>
+<h3 align="left">📊 Estatísticas</h3>
 
 ###
 
@@ -64,13 +64,5 @@
 <br clear="both">
 
 <h1 align="left"></h1>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorBern02/IgorBern02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorBern02/IgorBern02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IgorBern02/IgorBern02/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
