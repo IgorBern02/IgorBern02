@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IgorBern02&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=10&order=3" height="100" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=IgorBern02&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
