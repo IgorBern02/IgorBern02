@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Igor Bernardes Seixas, tenho 22 anos e sou de Praia Grande – São Paulo. Atuo na área de Tecnologia há cerca de 2 anos e meio e concluí minha graduação em Análise e Desenvolvimento de Sistemas pela UNIP em 2024. Tenho grande interesse por criação de interfaces modernas e funcionais, atualmente estou ampliando meus conhecimentos para me tornar um desenvolvedor Full Stack completo.</p>
+<p align="left">Me chamo Igor Bernardes Seixas, tenho 22 anos e sou de Praia Grande – São Paulo. Estou na área de Tecnologia há cerca de 2 anos e meio e concluí minha graduação em Análise e Desenvolvimento de Sistemas pela UNIP em 2024. Tenho grande interesse por criação de interfaces modernas e funcionais, atualmente estou ampliando meus conhecimentos para me tornar um desenvolvedor Full Stack completo.</p>
 
 ###
 
