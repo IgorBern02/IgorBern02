@@ -38,8 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo" />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="40" alt="reactnative logo" />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nativewind/nativewind-original.svg" height="40" alt="nativewind logo" />
+ 
 </div>
 
 ###
