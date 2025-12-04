@@ -67,6 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mauroesouza/mauroesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
